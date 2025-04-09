@@ -1,3 +1,18 @@
+## 🔥 Customized AI Chatbot using Next.js
+
+This project is a personalized version of the open-source [Vercel AI Chatbot Template](https://github.com/vercel/ai-chatbot).  
+I used it as a base to explore and experiment with AI chatbot integrations, Next.js App Router, and modern UI libraries like shadcn/ui.
+
+### ✨ What I Did:
+- Deployed the chatbot using Vercel with environment configs.
+- Understood and explored the use of the AI SDK and model switching.
+- Customized styles and layout using Tailwind and shadcn/ui.
+- Gained experience working with authentication and environment variables.
+- Explored data storage using Vercel Postgres and Blob.
+
+> ℹ️ The following is the original README from the Vercel AI Chatbot project, included for reference.
+
+
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Next.js AI Chatbot</h1>
